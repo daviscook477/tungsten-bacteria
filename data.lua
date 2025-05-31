@@ -33,7 +33,7 @@ data:extend{
       {
         property = "pressure",
         min = 2000,
-        max = 2000
+        max = 4000
       }
     },
     subgroup = "agriculture-processes",
@@ -68,7 +68,7 @@ data:extend{
       {
         property = "pressure",
         min = 2000,
-        max = 2000
+        max = 4000
       }
     },
     subgroup = "agriculture-processes",
