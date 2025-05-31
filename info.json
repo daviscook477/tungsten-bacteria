@@ -1,0 +1,18 @@
+{
+  "name": "tungsten-bacteria",
+  "version": "0.0.1",
+  "title": "Tungsten Bacteria",
+  "author": "test447",
+  "contact": "https://github.com/daviscook477/tungsten-bacteria/issues",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base",
+    "space-age"
+  ],
+  "description": "Grow tungsten from biological processes using tungsten bacteria.",
+  "package": {
+    "git_publish_branch": "main",
+    "ignore": [".git", ".github", ".vscode", ".kakrc"],
+    "sync_portal_details":  true
+  }
+}
